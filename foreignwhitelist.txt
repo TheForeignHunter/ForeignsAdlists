@@ -1,3 +1,4 @@
+# Whitelisted URLS
 hosts-file.net
 raw.githubusercontent.com
 v.firebog.net
