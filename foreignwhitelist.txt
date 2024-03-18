@@ -1,4 +1,5 @@
 # Whitelisted URLS
+click.linksynergy.com
 hosts-file.net
 raw.githubusercontent.com
 v.firebog.net
