@@ -32,3 +32,4 @@ rebrand.ly
 files.slack.com
 media.discordapp.net
 settings-win.data.microsoft.com
+analytics.google.com
