@@ -1,0 +1,4 @@
+(\.|^)rs6\.net$
+(\.|^)nkstatic\.com$
+(\.|^)pardot\.com$
+(\.|^)qualtrics\.com$
