@@ -1,5 +1,7 @@
 Custom ad blacklist/whitelist. Rarely updated.
 
+[Adlist](https://raw.githubusercontent.com/TheForeignHunter/ForeignsAdlists/main/foreignadlist.txt)
+
 [Whitelist](https://raw.githubusercontent.com/TheForeignHunter/ForeignsAdlists/main/foreignwhitelist.txt)
 [Whitelist Regex](https://raw.githubusercontent.com/TheForeignHunter/ForeignsAdlists/main/whitelistregex.txt)
 
