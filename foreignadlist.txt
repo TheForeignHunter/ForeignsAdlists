@@ -12,4 +12,4 @@ https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
-https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+
