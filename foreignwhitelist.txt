@@ -35,3 +35,4 @@ settings-win.data.microsoft.com
 analytics.google.com
 email.classy-mail.org
 s2s.mparticle.com
+s.nitropay.com
