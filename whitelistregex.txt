@@ -2,3 +2,4 @@
 (\.|^)nkstatic\.com$
 (\.|^)pardot\.com$
 (\.|^)qualtrics\.com$
+(\.|^)honeybook\.com$
