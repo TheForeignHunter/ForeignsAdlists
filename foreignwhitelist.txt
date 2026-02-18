@@ -37,3 +37,6 @@ email.classy-mail.org
 s2s.mparticle.com
 s.nitropay.com
 linker.lyrahealth.com
+honeybook.com
+app.honeybook.com
+hscm.honeybook.com
